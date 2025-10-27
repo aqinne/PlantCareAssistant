@@ -1,4 +1,4 @@
-# Home-Plant-Care-Assistant- 智能植物养护助手
+# PlantCareAssistant- 智能植物养护助手
 
 
 一个基于 **C++/Qt** 开发的跨平台桌面应用，旨在通过量化管理与智能提醒，解决家庭用户“养不活、记不住”的植物养护痛点。
